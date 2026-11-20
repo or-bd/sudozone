@@ -12,7 +12,7 @@ const demos: IDemo[] = [
   { title: 'Cloudfront A/B', logo: 'cloudfront.svg', link: 'https://d2vlo5pi7cnau.cloudfront.net/' },
   { title: 'Redis sharding', logo: 'redis.svg', link: 'https://redis.sudozone.com/' },
   { title: 'Hez Laor', logo: 'hez-laor.png', link: 'https://hez-laor.com/' },
-  { title: 'Garlic Game', logo: 'garlic-game.png', link: 'https://garlic.sudozone.com/' },
+  { title: 'Garlic Game', logo: 'garlic-game.png', link: 'https://garlic.playriz.ai/' },
   { title: 'Rinat Art', logo: 'rinat_art.jpg', link: 'https://rinatart.sudozone.com/' },
   { title: 'HEED (mobile)', logo: 'heed.png', link: 'https://heedapp.sudozone.com/' },
 ];
