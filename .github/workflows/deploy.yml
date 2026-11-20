@@ -35,4 +35,4 @@ jobs:
         run: |
           cd ./cdk
           npm install
-          cdk deploy or-digital-card --require-approval never
+          cdk deploy sudozone --require-approval never
