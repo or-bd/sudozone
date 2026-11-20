@@ -5,7 +5,7 @@ import { ACCOUNT, REGION } from '../lib/const';
 
 const app = new cdk.App();
 
-new CdkStack(app, 'or-digital-card', {
+new CdkStack(app, 'sudozone', {
   env: {
     account: ACCOUNT,
     region: REGION,
